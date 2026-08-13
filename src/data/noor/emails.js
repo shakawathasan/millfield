@@ -1,0 +1,18 @@
+export const EMAILS = [
+  { from: "Instagram - DM export (screenshots)", subject: "Archived thread with Sara (Oct 29-31)", date: "Oct 31, 6:22 PM" },
+  { from: "Sara Okonkwo", subject: "After last night, confession", snippet: "I need you to know Adam called me after you died...", date: "Oct 28, 7:41 AM" },
+  { from: "Digital Bank Pro", subject: "Sign-in confirmation for your professional account", snippet: "A new session was opened on your professional account fro...", date: "Oct 27, 10:42 PM" },
+  { from: "Weekly Medical Review", subject: "This week: preventive cardiology, young adults, and weak si...", snippet: "Issue #412: focus on early detection of arrhythmias in the u...", date: "Oct 26, 8:00 AM" },
+  { from: "Signal Security", subject: "Unusual login attempts on your account", snippet: "We blocked several verification requests from an unknown d...", date: "Oct 25, 9:47 PM" },
+  { from: "Saint-Louis Clinic", subject: "Cardiology referral, appointment arranged", snippet: "Dear Ms. Khalil, a visit has been arranged on your behalf i...", date: "Oct 24, 9:02 AM" },
+  { from: "Malia", subject: "Fwd: tata layla's real msemen recipe", snippet: "Here's the recipe you've asked me for a thousand ti...", date: "Oct 20, 8:42 PM" },
+  { from: "Inès B.", subject: "re: your parcel", snippet: "Hi Noor, I signed for your delivery and put it inside your door...", date: "Oct 20, 5:33 PM" },
+  { from: "Amazon.fr", subject: "Delivered: running belt and desk lamp", snippet: "Your package was left with the concierge at Résidence Tolbi...", date: "Oct 20, 11:15 AM" },
+  { from: "Dr. Bouchard's Office", subject: "Appointment confirmation, scaling 14 November", snippet: "Hello Ms Khalil, we confirm your appointment on 14 Novem...", date: "Oct 18, 9:14 AM" },
+  { from: "Prof. Dumas, Sciences Po", subject: "Thesis committee, slot for November", snippet: "Dear Noor, I want to follow up on scheduling your thesis d...", date: "Oct 16, 11:40 AM" },
+  { from: "Reiss Capital, Security", subject: "Unusual file access detected on your account", snippet: "We detected access to files outside your assigned project a...", date: "Oct 15, 9:11 AM" },
+  { from: "Building Management - Tolbiac Residence", subject: "Elevator maintenance, Monday 21 October", snippet: "Dear residents, lift B will be out of service from 8:00 to 12:0...", date: "Oct 14, 6:45 PM" },
+  { from: "Rania", subject: "Photos from tata Samira's dinner", snippet: "habibti look at these. Tata finally smiled in one of them...", date: "Oct 13, 9:28 PM" },
+  { from: "Marc Dubreuil, Auditor", subject: "Q3 audit follow-up, additional documents", snippet: "Ms Khalil, please send me the consolidated list of quarterly r...", date: "Oct 12, 11:05 AM" },
+  { from: "SNCF Connect", subject: "Your Paris - Lyon ticket, Fri 11 October", snippet: "Trip confirmed. Departure 07:14 from Gare de Lyon, seat 34...", date: "Oct 9, 4:22 PM" },
+];

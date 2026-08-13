@@ -1,0 +1,36 @@
+export const CASES = [
+  {
+    id: "noor",
+    num: "001",
+    name: "NOOR",
+    ready: true,
+    img: "https://images.unsplash.com/photo-1601412436009-d964bd02edbc?w=400&h=500&fit=crop",
+  },
+  {
+    id: "felix",
+    num: "002",
+    name: "FELIX",
+    title: "THE PRE-MED STUDENT'S LAST PLUNGE",
+    sub: "Mystery at the Psi Upsilon House",
+    ready: true,
+    img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=500&fit=crop",
+  },
+  {
+    id: "rei",
+    num: "003",
+    name: "REI",
+    title: "THE SECOND LEDGER",
+    sub: "Mystery at Club Aurora",
+    ready: true,
+    img: "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400&h=500&fit=crop",
+  },
+  {
+    id: "danny",
+    num: "004",
+    name: "DANNY",
+    title: "PERMIT 2209",
+    sub: "The Story That Didn't Run",
+    ready: true,
+    img: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&h=500&fit=crop",
+  },
+];
